@@ -1,0 +1,36 @@
+2018-03-04 20:03:46,177 INFO  [log4j] New driver instantiated 
+2018-03-04 20:03:46,183 INFO  [log4j] Implicit wait applied on the driver for 10 seconds 
+2018-03-04 20:04:10,845 INFO  [log4j] New driver instantiated 
+2018-03-04 20:04:10,850 INFO  [log4j] Implicit wait applied on the driver for 10 seconds 
+2018-03-04 20:04:16,724 INFO  [log4j] Web application launched 
+2018-03-04 20:04:16,810 INFO  [log4j] Username entered in the Username text box 
+2018-03-04 20:04:16,928 INFO  [log4j] Password entered in the Password text box 
+2018-03-04 20:04:17,003 INFO  [log4j] Click action performed on Submit button 
+2018-03-04 20:04:24,016 INFO  [log4j] Assert Passed 
+2018-03-04 20:04:24,637 INFO  [log4j] Browser closed 
+2018-03-06 18:25:22,902 INFO  [log4j] New driver instantiated 
+2018-03-06 18:25:22,918 INFO  [log4j] Implicit wait applied on the driver for 10 seconds 
+2018-03-06 18:38:51,320 INFO  [log4j] New driver instantiated 
+2018-03-06 18:38:51,336 INFO  [log4j] Implicit wait applied on the driver for 10 seconds 
+2018-03-06 18:39:00,515 INFO  [log4j] Web application launched 
+2018-03-06 18:39:01,224 INFO  [log4j] Username entered in the Username text box 
+2018-03-06 18:39:01,369 INFO  [log4j] Password entered in the Password text box 
+2018-03-06 18:39:01,443 INFO  [log4j] Click action performed on Submit button 
+2018-03-06 18:39:08,458 INFO  [log4j] Assert Passed 
+2018-03-06 18:39:09,083 INFO  [log4j] Browser closed 
+2018-03-06 19:21:19,112 INFO  [log4j] New driver instantiated 
+2018-03-06 19:21:19,128 INFO  [log4j] Implicit wait applied on the driver for 10 seconds 
+2018-03-06 19:21:23,658 INFO  [log4j] Web application launched 
+2018-03-06 19:21:24,338 INFO  [log4j] Username entered in the Username text box 
+2018-03-06 19:21:24,440 INFO  [log4j] Password entered in the Password text box 
+2018-03-06 19:21:24,559 INFO  [log4j] Click action performed on Submit button 
+2018-03-06 19:21:31,572 INFO  [log4j] Assert Passed 
+2018-03-06 19:21:32,119 INFO  [log4j] Browser closed 
+2018-03-18 20:07:48,080 INFO  [log4j] New driver instantiated 
+2018-03-18 20:07:48,084 INFO  [log4j] Implicit wait applied on the driver for 10 seconds 
+2018-03-18 20:07:52,999 INFO  [log4j] Web application launched 
+2018-03-18 20:07:53,118 INFO  [log4j] Username entered in the Username text box 
+2018-03-18 20:07:53,210 INFO  [log4j] Password entered in the Password text box 
+2018-03-18 20:07:53,316 INFO  [log4j] Click action performed on Submit button 
+2018-03-18 20:08:00,334 INFO  [log4j] Assert Passed 
+2018-03-18 20:08:00,929 INFO  [log4j] Browser closed 
